@@ -5,7 +5,7 @@ Music is the moonlight in the gloomy night of life.
 Enjoy your Favorite tunes in a minimalist interface designed for a seamless musical experience.
 
 
-<img width="960" alt="login_moonsic" src="https://github.com/moonfraction/Moonsic/assets/117714551/3ffddc25-804f-4171-a0c6-d1e25fc7ad8d">
+<img width="960" alt="login_moonsic" src="https://github.com/Rashi-235/Music_Player/blob/main/Assets/login_moonsic.png">
 
 
 ## Features
